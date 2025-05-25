@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @RandomSummer
+/src/backend/database.py      @RandomSummer
+/src/backend/routers/auth.py  @RandomSummer
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @RandomSummer
